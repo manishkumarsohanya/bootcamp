@@ -1,0 +1,25 @@
+AWS- amazon web services
+
+It is a subsidary of amazon. 
+It was launced in july,2002.
+
+Introduction-:
+AWS provides on demand cloud computing which includes-:
+1.computing power
+2.Database Resources
+3.Networking
+
+Aws provides-:
+-Iaas(infrastructure as a service)
+-Paas(platform as a service)
+-Saas(Software as a service)
+
+Aws provides virtual desktop environment to the user and level of abstraction is so high that the user feels that he is using
+his computing machine.
+
+Advantages
+1.security and agility.
+2.mobile service.
+3.Availability services of the services.
+  
+

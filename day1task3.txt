@@ -1,0 +1,11 @@
+This contract is between two companies for providing data processing and computer
+consulting services. Moreover their is also a subcontractor which is providing computer consulting services through subcontractor's personnel.
+
+Important terms and conditions-
+
+1.Subcontractor is responsible for providing all the materials required to
+  complete services called by clients.
+2.This agreement can be terminated anytime on the agreement of both parties and   in that case, subcontractor also have to terminate the agreement.
+3.All the payments to the subcontractor will be made after completion of thirty days irrespective of the fact where client fails to refuse for payments.
+4.Subcontractor's employees are not eligible for participating in benefits provided to contractor's employees.
+5.Workers will get a insurance of $100000 per occurrence.
